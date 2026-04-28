@@ -1,0 +1,1 @@
+# PatentTrendAI-Automated-Patent-Trend-Detection-and-Forecasting
